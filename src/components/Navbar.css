@@ -1,0 +1,37 @@
+.styl-main-nav{
+   display: flex;
+   justify-content: space-evenly;
+}
+
+.first-nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+.logo-nav{
+    width: 100px;
+}
+.btn-style{
+    width: 150px;
+    height: 40px;
+    background-color:green;
+    color: aqua;
+    border-radius: 35%;
+}
+.back-style{
+    width: Auto;
+    height: 35vh;
+    background-color: rgb(149, 0, 255);
+}
+.table{
+    margin-top: -150px;
+}
+.foot-style{
+    height: 200px;
+    background-color: blueviolet;
+}
+.foot-ele{
+    color:white;
+}
+.mt-2{
+    background-color: green;
+}
